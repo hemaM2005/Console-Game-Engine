@@ -1,0 +1,35 @@
+﻿ATTENTION
+ dont leave space bw stuff to avoid errors
+
+///1///
+
+\1\ > Press down arrow to go down.
+\2\ > Press up arrow to go up.
+\3\ > Press enter to select.
+
+\1/ Yes,### like that!
+\2/ Yes,### like that!
+\3/ Yes,### like that!
+
+
+
+///2///
+
+\1\ > $22$Different colour!$$
+\2\ > $18$Another different colour!$$
+\3\ > And white again!
+
+\1/ Remember,###
+\2/ Remember,###
+\3/ Remember,###
+
+
+
+///3///
+
+\1\ > Press this first
+\2\ > Hahaha             
+
+\1/ Yea, that's a nice little trick.
+\2/ Yea, that's a nice little trick.
+

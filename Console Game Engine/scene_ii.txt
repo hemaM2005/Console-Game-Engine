@@ -1,0 +1,35 @@
+﻿///1///
+#####################################################################################################################
+This is a console game engine. It can do a lot of things.###
+
+It can print text (surprise!!).
+
+It can s##l###o####w #####d####o####w####n.####.####.#### when needed,#### of course.### For d###r###a###m###a###t###i###c effect.
+
+Oh,### and you can press enter to skip through long bits of text. Press enter now!
+
+asfnoinavoiadnvidsvnvwrnsgionreoingveoingvegvoregbvioervboergvboregvb
+sbuvibwuivbw
+ancioewnvsoiwesgnvuirowvbuievb
+blahfebvbeuveurmomfowebfoiww
+
+It can also ask questions!!###
+
+///2///
+Oh, and you can slow text down for bits by editing the txt files in the program. This is 75 ms per char, last time it was 40!###
+Specific requirements are easy to code, too.###
+For instance.#.#.#
+
+
+///3///
+the files of the program can be modified to accomodate for things like this.
+This can be used to tell a  $11$story$$, you see.### 
+I made one, even.###
+Though, that's for another time. Here's something cool I made along with it.
+
+///4///
+And.##.##.## there's always room for more, of course!
+But that's all I have for the demo.## Check the code out!## It's very easily customizable.
+Anyway, thanks for being here!! Bye#-#bye!!
+
+
